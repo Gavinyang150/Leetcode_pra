@@ -10,5 +10,10 @@ class Solution:
                     output.append(j);
                     return output
                 else:
-                    j+=1;
-            i+=1
+                    j++
+            i++
+
+    def sumtwo
+
+if __name__ == "__main__":
+    Solution.twoSum
