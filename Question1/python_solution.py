@@ -1,6 +1,6 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # use the double loop to check the numbers in the 
+        # use the double loop to check the numbers in the
         # the file
         output = [];
         for i in range(0,len(nums)):
@@ -13,7 +13,6 @@ class Solution:
                     j++
             i++
 
-    def sumtwo
 
 if __name__ == "__main__":
     Solution.twoSum
